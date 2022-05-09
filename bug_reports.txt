@@ -1,0 +1,15 @@
+Summary
+Progect
+Component
+Version
+Severity
+Priority
+Status
+Authur
+[A[C[C[C[C[o[C
+Assigned to
+Steps to reproduse
+[B[B[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[c[C
+Result
+Expected Result
+Attachment
